@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kunaljaykam/cypress-sakai/issues"
   },
-  "homepage": "https://github.com/kunaljaykam/cypress-sakai#readme"
+  "homepage": "https://github.com/kunaljaykam/cypress-sakai#readme",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
 }
