@@ -1,31 +1,19 @@
 {
   "name": "cypress-sakai",
   "version": "1.0.0",
-  "description": "Cypress testing for Sakai",
-  "dependencies": {
-    "axe-core": "^4.3.3",
-    "cypress": "^8.7.0",
-    "cypress-axe": "^0.13.0"
-  },
-  "devDependencies": {
-    "cypress-plugin-tab": "^1.0.5",
-    "eslint": "^6.8.0",
-    "eslint-plugin-cypress": "^2.12.1"
-  },
+  "description": "Cypress Testing For Sakai",
+  "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress open"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sakaicontrib/cypress-sakai.git"
+    "url": "git+https://github.com/kunaljaykam/cypress-sakai.git"
   },
-  "keywords": [
-    "sakai"
-  ],
-  "author": "",
+  "author": "Kunal JayKam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sakaicontrib/cypress-sakai/issues"
+    "url": "https://github.com/kunaljaykam/cypress-sakai/issues"
   },
-  "homepage": "https://github.com/sakaicontrib/cypress-sakai#readme"
+  "homepage": "https://github.com/kunaljaykam/cypress-sakai#readme"
 }
