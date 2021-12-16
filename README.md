@@ -18,4 +18,7 @@ npm install
 
 # Start Cypress
 npx cypress open
+
+# Run cypress in terminal (without browser)
+npx cypress run --headless
 ```

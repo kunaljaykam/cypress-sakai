@@ -1,8 +1,12 @@
 {
   "name": "cypress-sakai",
   "version": "1.0.0",
-  "description": "Cypress Testing For Sakai",
+  "description": "## Installation",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,13 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/kunaljaykam/cypress-sakai.git"
   },
-  "author": "Kunal JayKam",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kunaljaykam/cypress-sakai/issues"
   },
-  "homepage": "https://github.com/kunaljaykam/cypress-sakai#readme",
-  "dependencies": {
-    "cypress": "^9.1.1"
-  }
+  "homepage": "https://github.com/kunaljaykam/cypress-sakai#readme"
 }
