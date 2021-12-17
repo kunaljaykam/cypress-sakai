@@ -1,9 +1,12 @@
-# Cypress Sakai(Testing)
+# Cypress Sakai
+
+
+##### To learn how to write Cypress tests, or 'specs', please see Cypress' [official documentation](https://docs.cypress.io/guides/getting-started/writing-your-first-test).
+
 
 ## Installation
 
 Getting Started
-
 
 
 ```bash
